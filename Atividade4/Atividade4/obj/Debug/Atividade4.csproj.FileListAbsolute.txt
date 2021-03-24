@@ -1,0 +1,9 @@
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\bin\Debug\Atividade4.exe.config
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\bin\Debug\Atividade4.exe
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\bin\Debug\Atividade4.pdb
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.csprojAssemblyReference.cache
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.Properties.Resources.resources
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.GenerateResource.cache
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.exe
+C:\Users\guilherme.faria\source\repos\Atividade4\Atividade4\obj\Debug\Atividade4.pdb
