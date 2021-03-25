@@ -1,0 +1,9 @@
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\obj\Debug\Atividade1.csprojAssemblyReference.cache
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\obj\Debug\Atividade1.Properties.Resources.resources
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.GenerateResource.cache
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\bin\Debug\Atividade1.exe
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\bin\Debug\Atividade1.pdb
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+C:\Users\guilherme.faria\Documents\Fatec\Atividade1\Atividade1\obj\Debug\Atividade1.pdb
